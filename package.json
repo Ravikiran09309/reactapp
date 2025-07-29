@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Ravikiran09309.github.io/reactapp",
+  "homepage": "https://Ravikiran09309.github.io/reactapp/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
